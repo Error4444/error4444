@@ -15,7 +15,7 @@
             </thead>
             <tbody>
                 <tr>
-                    <td><a href="https://error44.dev/"><img src="https://user-images.githubusercontent.com/57800447/183266061-f7a22ef3-8534-4fc9-aca3-d70cfd9db399.png"/></a></td>
+                    <td><a href="https://error44.dev/"><img src="https://user-images.githubusercontent.com/57800447/215343653-267bc1cd-6bdd-4d58-820c-0841dd1dba6d.png"/></a></td>
                     <td><a href="https://kawaii.red/"><img src="https://user-images.githubusercontent.com/57800447/183266040-f9525264-3324-428b-b16b-badf192f1f8c.png"/></a></td>
                 </tr>
             </tbody>
@@ -42,7 +42,7 @@
         <table>
             <tbody>
                 <tr>
-                    <td><img src="https://user-images.githubusercontent.com/57800447/183266972-b251ad98-c704-4040-8583-0f3a05af3152.png"/></td>
+                    <td><img src="https://user-images.githubusercontent.com/57800447/215343998-63b11fd7-4f83-4e93-9f27-216078603d81.png"/></td>
                     <td>
                         <div class="row">
                             <div class="col">
