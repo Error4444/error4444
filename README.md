@@ -32,7 +32,7 @@
             <tbody>
                 <tr>
                     <td><a href="https://animerose.de/"><img src="https://user-images.githubusercontent.com/57800447/183265680-85fde95d-d0d4-4b60-8821-c531cd1f42ea.png"/></a></td>
-                    <td><a href="https://sasaki.one/"><img src="https://user-images.githubusercontent.com/57800447/183265670-3a8dc0fa-148b-45f7-aa61-df113854b599.png"/></a></td>
+                    <td><a href="https://sasaki.error44.dev/"><img src="https://user-images.githubusercontent.com/57800447/183265670-3a8dc0fa-148b-45f7-aa61-df113854b599.png"/></a></td>
                 </tr>
             </tbody>
         </table>
