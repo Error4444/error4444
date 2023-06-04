@@ -16,7 +16,7 @@
             <tbody>
                 <tr>
                     <td><a href="https://error44.dev/"><img src="https://user-images.githubusercontent.com/57800447/215343653-267bc1cd-6bdd-4d58-820c-0841dd1dba6d.png"/></a></td>
-                    <td><a href="https://kawaii.red/"><img src="https://user-images.githubusercontent.com/57800447/183266040-f9525264-3324-428b-b16b-badf192f1f8c.png"/></a></td>
+                    <td><a href="https://kawaii.red/"><img src="https://github.com/Error4444/error4444/assets/57800447/b02bc149-0e1f-4b32-983f-3e9518c0d2d6"/></a></td>
                 </tr>
             </tbody>
         </table>
