@@ -54,7 +54,7 @@
                         <div class="row">
                             <div class="col">
                                 <h3><span>Orders</span></h4>
-                                <p><span>What I do for me, I can of course also do for you, you can order from me websites, bots and apis. But watch out because the demand is very high, unfortunately I can not respond to everything.</span></p>
+                                <p><span>Unfortunately, I do not offer any services, of course you can contact me and maybe a joint project arises. However, I do not accept orders for money.</span></p>
                                 <a href="https://error44.dev/#contact">Contact -><a>
                             </div>
                         </div>
